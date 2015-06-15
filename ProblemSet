@@ -1,0 +1,10 @@
+01/a létrehoz egy listát négy névvel
+01/b létrehoz egy listát három jelszóval
+
+02. legyen User  osztály, amiben van privát név és privát passwd, 
+    toString() metódusa, és két getter metódusa */ 
+03 véletlenszerűen generálom a pwd-t a usr-hez     
+
+04 írja ki a felhasználókat tartalmazó objektumok listáját objektumfolyamba 
+
+05 írja ki a felhasználók listáját konzolra
