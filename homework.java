@@ -1,4 +1,5 @@
 
+/* rename the file to User.java, and don't forget to run this file in the package */
 package homework;
 import java.io.File;
 import java.io.FileInputStream;
